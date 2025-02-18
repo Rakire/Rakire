@@ -1,8 +1,18 @@
-# 👋 Hi, I’m @Rakire  
-- 👀 I’m interested in cybersecurity and ethical hacking.  
-- 🌱 I’m currently learning ethical hacking and enhancing my cybersecurity skills.  
-- 💞️ I’m looking to collaborate on cybersecurity projects, ethical hacking, and AI-based security solutions.  
-- 📫 How to reach me:https://lnkd.in/gp8rFZ5X 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I love breaking into systems (ethically!) to make them more secure.
+### 👋 Hi, I’m Rakesh (@Rakire)  
+
+I am passionate about **cybersecurity and ethical hacking**, constantly exploring ways to secure digital systems. My goal is to become a top cybersecurity expert, helping businesses and individuals protect their data.  
+
+### 🔹 What I Do  
+- Learning and practicing **ethical hacking**  
+- Exploring **penetration testing, network security, and AI-driven security solutions**  
+- Building and deploying **AI-powered chatbots**
+-     
+### 🔹 Skills & Interests  
+- Cybersecurity & Ethical Hacking  
+- Penetration Testing  
+- AI & Automation  
+- Content Writing  
+
+### 📫 Connect with Me  
+ **LinkedIn:** [linkedin.com/in/konduru-rakesh-681
 
